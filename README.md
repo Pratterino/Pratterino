@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My name is Pär. 
+My name is Pär (or Paer if you don't like umlauts) 
+
 Most of my repos here is:
 * Unity games
 * Websites (using React probably)...
